@@ -1,0 +1,9 @@
+{
+	"name": "1179sumedhADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "283545cc-1d36-43c8-8987-34495cbeb148",
+		"tenantId": "499205fc-a2bf-46b9-8f9e-b176c04dd7ea"
+	}
+}
